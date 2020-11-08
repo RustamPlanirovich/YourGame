@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Твоя игра</string>
+    <string name="game_name1">Game Name</string>
+    <string name="game_description">Game Description</string>
+    <string name="price_text">Цена</string>
+    <string name="sum_text">Сумма</string>
+    <string name="buy_button_text">В корзину</string>
+    <string name="sum_price">0</string>
+    <string name="price">0</string>
+    <string name="quantity">1</string>
+    <string name="minus_button_text">-</string>
+    <string name="plus_button_text">+</string>
+    <string name="your_logo">Свой логотип</string>
+    <string name="name1">One Game</string>
+    <string name="its_design">Свой дизайн</string>
+</resources>
